@@ -1,5 +1,5 @@
 /**
- * Section : 3
+ * Section 3: Interfaces
  * Topic : Default Methods
  */
 public interface  Defaultable {
